@@ -1,6 +1,6 @@
-# Contributing to RouteNet-Erlang
+# Contributing to RouteNet-Fermi
 
-Thank you for your interest in contributing to RouteNet-Erlang! If you wish to contribute, please abide by our branching 
+Thank you for your interest in contributing to RouteNet-Fermi! If you wish to contribute, please abide by our branching 
 system.
 
 ## How to contribute
@@ -15,15 +15,15 @@ description of our **branching system** for more information).
 * Send a pull request from your github repo. If you don't want to use Github, that's OK too, we accept patches directly
 sent to the developer mailing list as well. In this case, we will credit you in the commit message.
 
-## Managing branches in RouteNet-Erlang
+## Managing branches in RouteNet-Fermi
 
 There are three main branches in Ignnition:
 
-- **main**: The main branch of RouteNet-Erlang. This branch contains the latest stable release.
-- **nightly**: The nightly branch of RouteNet-Erlang. This branch contains the small incremental updates that 
+- **main**: The main branch of RouteNet-Fermi. This branch contains the latest stable release.
+- **nightly**: The nightly branch of RouteNet-Fermi. This branch contains the small incremental updates that 
 are released in a constant release cycle.
-- **development**: The development branch of RouteNet-Erlang. This branch contains future features that may drastically 
-change how RouteNet-Erlang is used. As such, this branch is expected to be unstable and should not be used for any other
+- **development**: The development branch of RouteNet-Fermi. This branch contains future features that may drastically 
+change how RouteNet-Fermi is used. As such, this branch is expected to be unstable and should not be used for any other
 use than alpha testing.
   
 There are three different kinds of development branches:
@@ -46,7 +46,7 @@ the **development** branch.
 
 ## Versioning
 
-The *_version.py* file inside the *RouteNet-Erlang* folder contains the version of the package. Versions follows the 
+The *_version.py* file inside the *RouteNet-Fermi* folder contains the version of the package. Versions follows the 
 format '**x.y.z**', where '*x*' is the **major** version, '*y*' is the **minor** version, and '*z*' is the **fix** 
 version.
 
