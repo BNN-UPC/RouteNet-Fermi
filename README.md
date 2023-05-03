@@ -30,7 +30,7 @@ The project also contains some auxiliary files like `datanetAPI.py` used to read
 input by the model, and a `generate_dataframe.py` which saves the data in a Pandas Dataframe used to compute the scores.
 
 You can find more information about the reproducibility of the experiments inside each one of the directories 
-([Traffic Models](/TrafficModels/README.md), [Scheduling](/scheduling/README.md),  [Scalability](/scalability/README.md),
+([Traffic Models](/traffic_models/README.md), [Scheduling](/scheduling/README.md),  [Scalability](/scalability/README.md),
 [All Mixed](/all_mixed/README.md), [Testbed](/testbed/README.md), [Real Traffic](/real_traffic/README.md), [FatTree](/fat_tree/README.md)).
 
 ## Main Contributors
